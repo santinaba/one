@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8Puzzle-StateSpaceSearches" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8_puzzle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8puzzle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desarrollo-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desarrollo-web/Laboratorio1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desarrollo-web/Tarea-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desarrollo-web/Tarea-3/Tarea-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desarrollo-web/tarea-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sisteas Distribuidos/TCP-UDP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sisteas Distribuidos/fibonnaci" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sisteas Distribuidos/invertir-cadena" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pynpuzzle" vcs="Git" />
+  </component>
+</project>
